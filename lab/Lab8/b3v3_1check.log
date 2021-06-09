@@ -1,0 +1,6 @@
+BSIM3V3.1 Parameter Check
+Model = scmosn
+W = 5e-06, L = 1e-06
+Fatal: Vsat at current temperature = -1.11056e+22 is not positive.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
